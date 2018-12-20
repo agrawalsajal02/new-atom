@@ -1,2 +1,11 @@
 this is test file uploaded from git.
 changed some text
+commands:-
+ 1)git init
+2)git add [filename] || -A
+3)git status
+4) git commit
+5)git remote add origin reponame
+6)git push origin master
+7)git clone reponame
+8)git pull origin master
