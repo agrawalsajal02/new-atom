@@ -15,6 +15,7 @@ commands:-
 10) git branch [newbranchname]
 11) git checkout [branch name]  //to go from master to branch or branch to master
 12)git branch -d [name]  //to delete the branch from master branch
+14)git checkout -b sajal // short cut to create new branch and reach it
 13)git merge [branchname]  //to merge the branch
 
 
@@ -27,3 +28,4 @@ git log -i -G"Text in code"
 git log --stat
 git log -i
 --author="sajalagrawal"
+
